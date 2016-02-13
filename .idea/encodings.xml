@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/app/src/main/assets" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/www/zhihudemo/com/zhihudemo/activity/NewsDetailActivity.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/www/zhihudemo/com/zhihudemo/adapter/NewsAdapter.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/www/zhihudemo/com/zhihudemo/entity/News.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/www/zhihudemo/com/zhihudemo/entity/NewsDetail.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/www/zhihudemo/com/zhihudemo/http/Http.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/www/zhihudemo/com/zhihudemo/http/JsonHelper.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/www/zhihudemo/com/zhihudemo/task/LoadNewsDetailTask.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/www/zhihudemo/com/zhihudemo/task/LoadNewsTask.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/www/zhihudemo/com/zhihudemo/utility/Utility.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable/background_cards.xml" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable/no_image.png" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/layout/listview_item.xml" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/layout/news_detail.xml" charset="GBK" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
